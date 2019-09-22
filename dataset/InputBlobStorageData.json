@@ -13,7 +13,7 @@
 				"fileName": "hotels.csv",
 				"container": "rawdata"
 			},
-			"columnDelimiter": ",",
+			"columnDelimiter": ";",
 			"escapeChar": "\\",
 			"quoteChar": "\""
 		},
